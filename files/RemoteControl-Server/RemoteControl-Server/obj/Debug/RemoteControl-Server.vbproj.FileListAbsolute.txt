@@ -1,0 +1,21 @@
+C:\Users\bcoat13\AppData\Local\Temporary Projects\RemoteControl-Server\bin\Debug\RemoteControl-Server.exe
+C:\Users\bcoat13\AppData\Local\Temporary Projects\RemoteControl-Server\bin\Debug\RemoteControl-Server.pdb
+C:\Users\bcoat13\AppData\Local\Temporary Projects\RemoteControl-Server\bin\Debug\RemoteControl-Server.xml
+C:\Users\bcoat13\AppData\Local\Temporary Projects\RemoteControl-Server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bcoat13\AppData\Local\Temporary Projects\RemoteControl-Server\obj\Debug\RemoteControl_Server.frmMain.resources
+C:\Users\bcoat13\AppData\Local\Temporary Projects\RemoteControl-Server\obj\Debug\RemoteControl_Server.Resources.resources
+C:\Users\bcoat13\AppData\Local\Temporary Projects\RemoteControl-Server\obj\Debug\RemoteControl-Server.vbproj.GenerateResource.Cache
+C:\Users\bcoat13\AppData\Local\Temporary Projects\RemoteControl-Server\obj\Debug\RemoteControl-Server.exe
+C:\Users\bcoat13\AppData\Local\Temporary Projects\RemoteControl-Server\obj\Debug\RemoteControl-Server.xml
+C:\Users\bcoat13\AppData\Local\Temporary Projects\RemoteControl-Server\obj\Debug\RemoteControl-Server.pdb
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Server\RemoteControl-Server\obj\Debug\RemoteControl-Server.exe
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Server\RemoteControl-Server\obj\Debug\RemoteControl-Server.xml
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Server\RemoteControl-Server\obj\Debug\RemoteControl-Server.pdb
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Server\RemoteControl-Server\bin\Debug\RemoteControl-Server.exe
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Server\RemoteControl-Server\bin\Debug\RemoteControl-Server.pdb
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Server\RemoteControl-Server\bin\Debug\RemoteControl-Server.xml
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Server\RemoteControl-Server\obj\Debug\ResolveAssemblyReference.cache
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Server\RemoteControl-Server\obj\Debug\RemoteControl_Server.frmConnect.resources
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Server\RemoteControl-Server\obj\Debug\RemoteControl_Server.frmStream.resources
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Server\RemoteControl-Server\obj\Debug\RemoteControl_Server.Resources.resources
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Server\RemoteControl-Server\obj\Debug\RemoteControl-Server.vbproj.GenerateResource.Cache

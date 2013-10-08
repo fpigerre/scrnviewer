@@ -1,0 +1,10 @@
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Client\RemoteControl-Client\bin\Debug\RemoteControl-Client.exe
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Client\RemoteControl-Client\bin\Debug\RemoteControl-Client.pdb
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Client\RemoteControl-Client\bin\Debug\RemoteControl-Client.xml
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Client\RemoteControl-Client\obj\Debug\ResolveAssemblyReference.cache
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Client\RemoteControl-Client\obj\Debug\RemoteControl_Client.Form1.resources
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Client\RemoteControl-Client\obj\Debug\RemoteControl_Client.Resources.resources
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Client\RemoteControl-Client\obj\Debug\RemoteControl-Client.vbproj.GenerateResource.Cache
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Client\RemoteControl-Client\obj\Debug\RemoteControl-Client.exe
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Client\RemoteControl-Client\obj\Debug\RemoteControl-Client.xml
+D:\bcoat13\Documents\VB_Projects\RemoteControl-Client\RemoteControl-Client\obj\Debug\RemoteControl-Client.pdb
