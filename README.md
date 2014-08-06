@@ -15,5 +15,5 @@ To use this application, a VPN may be required.
 Using Hamachi is a good solution to this.
 If you're trying to see a screen that is on the same network as the viewing computer (eg. At a school or at work), no VPN should be necessary.
 
-Application by @secondry2
-http://ComezeSoftware.com
+Application by [@secondry2](http://csadvert.tk)
+http://csadvert.tk
